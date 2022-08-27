@@ -10,32 +10,32 @@ A Colorado Board of Elections employee requested your help in completing an elec
 4. Calculate the percentage of votes each candidate won. 
 5. Determine the winner of the election based on popular vote. 
 ## Resources
-Data Source: election_results.csv
+* Data Source: election_results.csv
 
-Software: Python 3.8.3, Visual Studio Code 1.46.0
+* Software: Python 3.8.3, Visual Studio Code 1.46.0
 
 ## Summary
 The analysis of the election show that:
 
-There were 369,711 votes cast in the election.
+* There were 369,711 votes cast in the election.
 
-The candidates were:
+* The candidates were:
 
-Charles Casper Stockham
-Diana DeGette
-Raymon Anthony Doane
+    * Charles Casper Stockham
+    * Diana DeGette
+    * Raymon Anthony Doane
 
-The candidate results were:
+* The candidate results were:
 
-Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
 
-Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
 
-Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
-The winner of the election was:
+* The winner of the election was:
 
-Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
+ * Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
 ## Challenge Overview
 Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
