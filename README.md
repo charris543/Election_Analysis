@@ -35,7 +35,7 @@ The analysis of the election show that:
 
 * The winner of the election was:
 
- * Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
+  * Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
 ## Challenge Overview
 Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
