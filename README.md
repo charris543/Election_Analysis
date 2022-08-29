@@ -84,3 +84,5 @@ Diana DeGette
 Vote Count: 272,892
 
 Percentage: 73.8%
+
+In this election, the winner had a supermajority, but the criteria was for a popular vote, greater than or equal to 50.1%. This script could be easily modified to run a check for a supermajority, greater than or equal to 66.7% of the votes as the election criteria. A second way to change the code, with the county data, weights could be assigned to the counties to represent the weights of the electoral college votes. With these 2 changes to the script, perhaps the election commission would consider a business proposal to make these two adjustments, and the script could calculate almost any election.
